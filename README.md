@@ -1,11 +1,9 @@
 # CinemaBookingDB-design
 
-# CinemaBookingDB
-
 **CinemaBookingDB** is a robust and scalable database designed to manage and streamline cinema ticket booking systems. It offers a well-organized schema to handle the complexities of managing movies, theaters, showtimes, seating arrangements, user accounts, and ticket reservations.
 
 # ERD Diagram
-
+![rasm](https://github.com/SarverCoder/CinemaBookingDB-design/blob/f58b78d00fa9d87882e5b6f9fbef73a948968af3/Cinema%20ERD/cinemabookingERD.png)
 
 ## Features
 
